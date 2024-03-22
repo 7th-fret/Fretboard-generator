@@ -9,6 +9,8 @@ It is provided free to use under the GNU Public License v3 license, copyright Mi
 
 For more details, visit http://electricflapjack.com/ or contact me at michael@electricflapjack.com.
 
+Demo: https://electricflapjack.com/opensource/fretboard/
+
 How to use this?
 ================
 
